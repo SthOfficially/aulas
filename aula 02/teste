@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale+1.0">
+        <title>Primeiro teste</title>
+    </head>
+    <body>
+        <p>
+            No YouTube compartilha conteúdo focado em inteligência artificial e inovação, com um foco especial em ferramentas e técnicas que alavancam produtividade e criatividade. A abordagem explora formas de aplicar IA em projetos pessoais e profissionais, além de discutir as novas tendências no setor de tecnologia.
+        </p>
+        <a href="https://www.youtube.com/@_Sth.Officially_"> <img src="imagens/Imagem.jpg" alt="flor" width="50%"></a>
+    </body>
+</html>
